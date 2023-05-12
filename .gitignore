@@ -1,6 +1,5 @@
 .env
 *.txt
 !select.txt
-!test1.txt
 temp/
 node_modules/
